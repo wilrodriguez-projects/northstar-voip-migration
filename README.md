@@ -1,4 +1,4 @@
-# 🚀 Project NORTH STAR — Carrier-Grade VoIP Migration to AWS Connect
+# 🚀 Project NORTH STAR Carrier Grade VoIP Migration to AWS Connect
 
 > **Program Type:** Cloud Infrastructure / Telecom Migration  
 > **Duration:** January 2024 – November 2024 (11 months)  
